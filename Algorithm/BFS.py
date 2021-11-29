@@ -56,8 +56,7 @@ g.addEdge(9, 4)
 g.addEdge(5, 0)
 g.addEdge(3, 2)
 
-print ("Following is Breadth First Traversal" 
-	   					" (starting from vertex 2)")
+print ("The Breadth First Search of 5 is:")
 g.BFS(5)
 
 # This code is contributed by Neelam Yadav

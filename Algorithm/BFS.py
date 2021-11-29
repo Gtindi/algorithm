@@ -1,8 +1,7 @@
 # Program to print BFS traversal
 from collections import defaultdict
 
-# This class represents a directed graph
-# using adjacency list representation
+# This class represents a directed graph using adjacency list representation
 class Graph:
 
 	# Constructor
